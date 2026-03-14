@@ -11,17 +11,6 @@
 # 🧠 Backend Engineer
 
 Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4+ years of experience** designing and building scalable backend systems.
-
-Specialized in:
-
-- Payment integrations
-- Webhook processing systems
-- Automation pipelines
-- API architecture
-- High-performance backend services
-
-I enjoy building backend systems that handle **real-time financial transactions reliably and efficiently**.
-
 ---
 
 # ⚙️ Tech Stack
