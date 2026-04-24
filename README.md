@@ -10,7 +10,7 @@
 
 # 🧠 Backend Engineer
 
-Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4+ years of experience** designing and building scalable backend systems.
+Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4 years of experience** designing and building scalable backend systems.
 ---
 
 # ⚙️ Tech Stack
