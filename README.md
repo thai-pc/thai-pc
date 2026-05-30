@@ -27,7 +27,7 @@ Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4 years of e
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgress" />
 
 ### DevOps
 
