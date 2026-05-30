@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+CodeIgniter;Fintech+%26+Payment+Systems;API+Architecture+%26+Automation;Building+Scalable+Backend+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+CodeIgniter;Golang+Developer;Fintech+%26+Payment+Systems;API+Architecture+%26+Automation;Building+Scalable+Backend+Systems)
 
 </div>
 
@@ -11,6 +11,7 @@
 # 🧠 Backend Engineer
 
 Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4 years of experience** designing and building scalable backend systems.
+
 ---
 
 # ⚙️ Tech Stack
@@ -19,15 +20,15 @@ Backend-focused developer from **Ho Chi Minh City 🇻🇳** with **4 years of e
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs" />
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,bootstrap" />
 
-### Database
+### Database & Messaging
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgress" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq" />
 
 ### DevOps
 
